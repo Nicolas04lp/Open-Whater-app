@@ -12,7 +12,7 @@ const WatherForm = (props) => {
                 <div className="form-group">
                     <input type="text" name="country" placeholder="Yout Country Name" className="form-control"/>
                 </div>
-                <button className="btn btn-secondary btn-block">
+                <button className="btn btn-warning btn-block">
                     Get Dates
                 </button>
             </form>
